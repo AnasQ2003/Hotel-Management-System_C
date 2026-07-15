@@ -10,7 +10,7 @@
 
 ## 🌟 Overview
 
-The **Restaurant & Hotel Management System** is a complete console application built as a final project for the **Computer Programming (CP) Lab** course during the 1st Semester of the BS Computer Science program. It models a complex commercial system using arrays, structure formatting, file input/output streams, dynamic index mapping, and modular programming in C++.
+The **Restaurant & Hotel Management System** is a complete console application built as a final project for the **Computer Programming (CP) Lab** course. It models a complex commercial system using arrays, structure formatting, file input/output streams, dynamic index mapping, and modular programming in C++.
 
 The system uses role-based access control with specialized modules for **Administrator**, **Table Manager**, **Room Manager**, and **Parking Manager**. It tracks hotel resources (dining tables, guest rooms, parking slots) in real-time and persists the overall configuration state to an external `data.txt` file when shutting down.
 
@@ -33,9 +33,6 @@ Here are the terminal execution logs showing role logins, table billing grids, r
 ### 3. Room Booking Systems & Visual Status Grid
 <p align="center">
   <img src="screenshots/screenshot_10.png" width="550" alt="Room Reservation Panel" />
-</p>
-<p align="center">
-  <img src="screenshots/screenshot_1.jpg" width="450" alt="Room Booking Flowchart" />
 </p>
 
 ### 4. Vehicle Parking Inventory & Record Controls
@@ -188,8 +185,7 @@ g++ -std=c++11 hotel_management.cpp -o hotel_management
 
 ---
 
-## 🧠 Learning Objectives (CP Lab Project)
-
+## 🧠 Learning Objectives 
 > ✅ **Objective**: Apply core C++ syntax — including structs, arrays, loops, I/O streams, and console formatting — to construct a multi-modular desktop simulation that mimics a business environment.
 
 **Activities Completed:**
@@ -209,17 +205,46 @@ g++ -std=c++11 hotel_management.cpp -o hotel_management
 
 ## 📄 License
 
-This university lab project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+```
+MIT License
+
+Copyright (c) Hotel-Management-System-C ---2026 AnasQ2003
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+```
 
 ---
 
 ## 👨‍💻 Author
 
-**Anas Ahmed Qureshi** — [@AnasQ2003](https://github.com/AnasQ2003)
-*Computer Programming (CP) Lab — Final Project Submission*
+**Anas Ahmed Qureshi.** — [@AnasQ2003](https://github.com/AnasQ2003)
 
 ---
 
+<div align="center">
+  <p>Built with ❤️ by <strong>Anas</strong></p>
+  
+ <div align="center">
+
+Made with 💧 and a lot of ☕
+
+**⭐ If you found this useful, please star the repository!**
+
+*Stay hydrated. Stay healthy.*
+
+</div>
 <div align="center">
   <p>Built with ❤️ using C++</p>
 
