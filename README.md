@@ -1,3 +1,5 @@
+<div align="center">
+
 # 🏨 Restaurant & Hotel Management System
 
 > A multi-modular, console-based management suite built in C++ featuring role-based authentication, interactive menu orders with automatic bill printing, lodging room reservation trackers, and a vehicle parking management pipeline.
@@ -6,11 +8,13 @@
 [![Platform](https://img.shields.io/badge/Platform-Console-black.svg?style=flat-square)](#)
 [![Storage](https://img.shields.io/badge/Storage-Flat--File%20(data.txt)-darkgreen.svg?style=flat-square)](#)
 
+</div>
+
 ---
 
 ## 🌟 Overview
 
-The **Restaurant & Hotel Management System** is a complete console application built as a final project for the **Computer Programming (CP) Lab** course. It models a complex commercial system using arrays, structure formatting, file input/output streams, dynamic index mapping, and modular programming in C++.
+The **Restaurant & Hotel Management System** is a complete console application built as a project for course. It models a complex commercial system using arrays, structure formatting, file input/output streams, dynamic index mapping, and modular programming in C++.
 
 The system uses role-based access control with specialized modules for **Administrator**, **Table Manager**, **Room Manager**, and **Parking Manager**. It tracks hotel resources (dining tables, guest rooms, parking slots) in real-time and persists the overall configuration state to an external `data.txt` file when shutting down.
 
@@ -238,15 +242,12 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
   
  <div align="center">
 
-Made with 💧 and a lot of ☕
 
 **⭐ If you found this useful, please star the repository!**
 
-*Stay hydrated. Stay healthy.*
 
 </div>
 <div align="center">
   <p>Built with ❤️ using C++</p>
 
-  **⭐ If this lab project was helpful, please star the repository!**
 </div>
